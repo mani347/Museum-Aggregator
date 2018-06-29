@@ -1,0 +1,8 @@
+{
+    "vscode-janus-debug.uploadManually": [
+        "museumroute"
+    ],
+    "vscode-janus-debug.uploadOnSave": [
+        "script"
+    ]
+}

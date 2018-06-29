@@ -1,0 +1,7 @@
+{
+	"env":{
+		"JWT_KEY":"WebTokenKey",
+		"email":"YourEmail@domain.com",
+		"password":"YourPassword"
+	}
+}
